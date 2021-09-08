@@ -40,12 +40,4 @@ sh testVERIWild.sh
 To be updated.
 
 ## Acknowledgment
-<<<<<<< HEAD
 This repository is based on the implementation of [fast-reid](https://github.com/JDAI-CV/fast-reid).
-=======
-<<<<<<< HEAD
-This repository is based on the implementation of [fast-reid](https://github.com/JDAI-CV/fast-reid).
-=======
-This repository is based on the implementation of [fast-reid](https://github.com/JDAI-CV/fast-reid).
->>>>>>> 069f17cce90f691d66867d66131f74b588671475
->>>>>>> 8391881 (initial edition)
