@@ -38,11 +38,17 @@ sh testVERIWild.sh
 
 ## Citation
 @InProceedings{Zhao_2021_ICCV,
+
     author    = {Zhao, Jiajian and Zhao, Yifan and Li, Jia and Yan, Ke and Tian, Yonghong},
+    
     title     = {Heterogeneous Relational Complement for Vehicle Re-Identification},
+    
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    
     month     = {October},
+    
     year      = {2021},
+    
     pages     = {205-214}
 }
 
